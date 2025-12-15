@@ -1,16 +1,19 @@
+# ctf2025
 # Deroulement : 
 ## 15/06/2025: 
 Information sur les outils à installer
 ## 16/06/2025 : 
 Installation pour chaque groupe des outils (  exegol , docker, vokoscreen ou obs avec format minimal)
 ## 17/07/2025 :
-* AM : Exploration en white box : Les participants auront accés aux machines vulnérables . Tous obligatoires avec docker
+* AM : Exploration en white box : Les participants auront accés aux machines vulnérables . Tous obligatoires avec docker et exegol (les machines vulnérabes seront cités  à ce jour)
 * PM : CTF prolab att4ck def3nd  en black blox : Les participants n'auront pas accés aux machines vulnérables. </br>
 Les participants penetrent des machines pour pentest et essaie en même temps de protéger contre les autres participants </br>
+Le choix d'outil n'est pas obligatoirement exegol, les participants peuvent utilés du parrot, kali, blackubuntu, snoopgod ....
 RQ  : LES PARTICIPANTS DEVRONT FAIRE UNE CAPTURE VIDEO (AVEC LE MOINS DE FRAME ET QUALITE MOYENNE) SUR VOKOSCREEN OU OBS STUDIO. </br>
 RQ2 : VEUILLEZ FAIRE DU SAUVEGARDE TOUS LES 30 MINUTES POUR NE PAS ALLOURDIR LA TAILLE DU VIDEO
 
-# 18/07/2025 : Rédaction de rapport  en word et des presentation de 5minutes en excel
+# 18/07/2025 : 
+Rédaction de rapport  en word et des presentation de 5minutes en excel
 * WORD : Montre tous les vulnérabilités exploitées et les impacts des vulnérabilités (des captures d'écran issues des vidéos capturés le 17/12/2025)
 * PPT : Montre les vulnérabilités critiques et interessantes à connaitre pour des publiques
 
@@ -19,7 +22,6 @@ RQ2 : VEUILLEZ FAIRE DU SAUVEGARDE TOUS LES 30 MINUTES POUR NE PAS ALLOURDIR LA 
 * Presentation du PPT (la présentation est sans démos mais les participants peuvent montrés un extrait de vidéo s'ils veulent)
 * RQ : La presentation ne doit pas dépassé de 5min
 
-# ctf2025
 # CHOIX DE OS : 
 * linux avec docker 
 * windows : utilisation machine virtuelle (vmware ou virtualbox) avec une machine linux (lubuntu ou xubuntu qui ne depense pas trop mémoire RAM)
@@ -30,22 +32,22 @@ Les outils vmware et lubuntu/xubuntu et d autres logiciels seront déposé dans 
 * Exegol : un outil de pentester se basant sur une surcouche (wrapper) python de docker.
 
 # ETAPE 1 : LIRE LA DOCUMENTATION
-[documentation](https://docs.exegol.com)
-[document1](https://www.youtube.com/watch?v=RxGkG8HFFHs&t=570s)
-[document2](https://www.youtube.com/watch?v=2tWBn86R-o4)
-[document3](https://www.youtube.com/watch?v=hg4kUPXUt7g&t=14s)
-[document4](https://www.youtube.com/watch?v=8PptL7FDJcY)
-[document5](https://www.youtube.com/watch?v=PYPcpDGELqM)
-[document6](https://www.youtube.com/watch?v=E8TAZ_J_H8s)
-[document7](https://www.youtube.com/watch?v=XwmbUA-k38E&pp=0gcJCSUKAYcqIYzv)
-[document8](https://www.youtube.com/watch?v=-U-vP_RmAZk&t=9s)
-[document9](https://www.youtube.com/watch?v=EMhUooNQE3I)
-[document10](https://www.youtube.com/watch?v=o9G4Q-2sI4s)
-[document11](https://www.youtube.com/watch?v=-U-vP_RmAZk)
-[document12](https://www.youtube.com/watch?v=mrRNabBL9eE)
-[document13](https://www.youtube.com/watch?v=KBaek8qJPMs)
-[document14](https://www.youtube.com/watch?v=wpwKky8lOAI)
-[document15](https://www.youtube.com/watch?v=ltgpmOynCc4)
+[documentation](https://docs.exegol.com) </br>
+[document1](https://www.youtube.com/watch?v=RxGkG8HFFHs&t=570s) </br>
+[document2](https://www.youtube.com/watch?v=2tWBn86R-o4) </br>
+[document3](https://www.youtube.com/watch?v=hg4kUPXUt7g&t=14s) </br>
+[document4](https://www.youtube.com/watch?v=8PptL7FDJcY) </br>
+[document5](https://www.youtube.com/watch?v=PYPcpDGELqM) </br>
+[document6](https://www.youtube.com/watch?v=E8TAZ_J_H8s) </br>
+[document7](https://www.youtube.com/watch?v=XwmbUA-k38E&pp=0gcJCSUKAYcqIYzv) </br>
+[document8](https://www.youtube.com/watch?v=-U-vP_RmAZk&t=9s) </br>
+[document9](https://www.youtube.com/watch?v=EMhUooNQE3I) </br>
+[document10](https://www.youtube.com/watch?v=o9G4Q-2sI4s) </br>
+[document11](https://www.youtube.com/watch?v=-U-vP_RmAZk) </br>
+[document12](https://www.youtube.com/watch?v=mrRNabBL9eE) </br>
+[document13](https://www.youtube.com/watch?v=KBaek8qJPMs) </br>
+[document14](https://www.youtube.com/watch?v=wpwKky8lOAI) </br>
+[document15](https://www.youtube.com/watch?v=ltgpmOynCc4) </br>
 
 RQ : CHERCHE LE FICHIER EXCEL QUI LISTE TOUS LES OUTILS POSSIBLES
 
