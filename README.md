@@ -1,10 +1,13 @@
 # Deroulement : 
-## 15/06/2025: Partage des outils à installer
-## 16/06/2025 : Installation pour chaque groupe des outils (  exegol , docker, vokoscreen ou obs avec format minimal)
+## 15/06/2025: 
+Information sur les outils à installer
+## 16/06/2025 : 
+Installation pour chaque groupe des outils (  exegol , docker, vokoscreen ou obs avec format minimal)
 ## 17/07/2025 :
 * AM : Exploration en white box : Les participants auront accés aux machines vulnérables . Tous obligatoires avec docker
-* PM : CTF prolab att4ck def3nd  en black blox : Les participants n'auront pas accés aux machines vulnérables. Les participants penetrent des machines pour pentest et essaie en même temps de protéger contre les autres participants
-RQ  : LES PARTICIPANTS DEVRONT FAIRE UNE CAPTURE VIDEO (AVEC LE MOINS DE FRAME ET QUALITE MOYENNE) SUR VOKOSCREEN OU OBS STUDIO.
+* PM : CTF prolab att4ck def3nd  en black blox : Les participants n'auront pas accés aux machines vulnérables. </br>
+Les participants penetrent des machines pour pentest et essaie en même temps de protéger contre les autres participants </br>
+RQ  : LES PARTICIPANTS DEVRONT FAIRE UNE CAPTURE VIDEO (AVEC LE MOINS DE FRAME ET QUALITE MOYENNE) SUR VOKOSCREEN OU OBS STUDIO. </br>
 RQ2 : VEUILLEZ FAIRE DU SAUVEGARDE TOUS LES 30 MINUTES POUR NE PAS ALLOURDIR LA TAILLE DU VIDEO
 
 # 18/07/2025 : Rédaction de rapport  en word et des presentation de 5minutes en excel
@@ -20,13 +23,30 @@ RQ2 : VEUILLEZ FAIRE DU SAUVEGARDE TOUS LES 30 MINUTES POUR NE PAS ALLOURDIR LA 
 # CHOIX DE OS : 
 * linux avec docker 
 * windows : utilisation machine virtuelle (vmware ou virtualbox) avec une machine linux (lubuntu ou xubuntu qui ne depense pas trop mémoire RAM)
-Les outils vmware et lubuntu/xubuntu sera déposé dans le serveur local de l'INSI
+Les outils vmware et lubuntu/xubuntu et d autres logiciels seront déposé dans le serveur local de l'INSI à partir de 16/12/2025 pour ne pas télécharger l'image exegol plus de 45giga 
+
 
 # INSTALLATION EXEGOL
 * Exegol : un outil de pentester se basant sur une surcouche (wrapper) python de docker.
 
 # ETAPE 1 : LIRE LA DOCUMENTATION
 [documentation](https://docs.exegol.com)
+[document1](https://www.youtube.com/watch?v=RxGkG8HFFHs&t=570s)
+[document2](https://www.youtube.com/watch?v=2tWBn86R-o4)
+[document3](https://www.youtube.com/watch?v=hg4kUPXUt7g&t=14s)
+[document4](https://www.youtube.com/watch?v=8PptL7FDJcY)
+[document5](https://www.youtube.com/watch?v=PYPcpDGELqM)
+[document6](https://www.youtube.com/watch?v=E8TAZ_J_H8s)
+[document7](https://www.youtube.com/watch?v=XwmbUA-k38E&pp=0gcJCSUKAYcqIYzv)
+[document8](https://www.youtube.com/watch?v=-U-vP_RmAZk&t=9s)
+[document9](https://www.youtube.com/watch?v=EMhUooNQE3I)
+[document10](https://www.youtube.com/watch?v=o9G4Q-2sI4s)
+[document11](https://www.youtube.com/watch?v=-U-vP_RmAZk)
+[document12](https://www.youtube.com/watch?v=mrRNabBL9eE)
+[document13](https://www.youtube.com/watch?v=KBaek8qJPMs)
+[document14](https://www.youtube.com/watch?v=wpwKky8lOAI)
+[document15](https://www.youtube.com/watch?v=ltgpmOynCc4)
+
 RQ : CHERCHE LE FICHIER EXCEL QUI LISTE TOUS LES OUTILS POSSIBLES
 
 # ETAPE 2 : INSTALLATION DES DEPENDANCES
@@ -91,3 +111,6 @@ Dans un autre terminal : Tapez ctrl+shift+T
 ```
 docker ps
 ```
+* ETAPE 5 : REALISATION DE DEMO FILE UPLOAD AVEC DVWA
+Un démo sera déposé au serveur INSI à partir de 16/12/2025
+[document1](https://www.youtube.com/watch?v=RxGkG8HFFHs&t=570s)
